@@ -11,8 +11,6 @@ use TPG\Shelter\Shelter;
 
 $pruitt = new Shelter('Igoe');
 
-$t = new Dog;
-
 $types = ['Cat', 'Dog', 'Turtle'];
 
 @array_walk(
